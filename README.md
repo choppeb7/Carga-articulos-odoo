@@ -1,4 +1,4 @@
-# Carga-articulos-odoo
+# Modelo de Clasificación Automática de Inventario SAP para Carga en Odoo
 
 # Clasificación y Carga de Artículos SAP hacia Odoo CRM
 
