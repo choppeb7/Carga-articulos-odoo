@@ -1,7 +1,5 @@
 # Modelo de Clasificación Automática de Inventario SAP para Carga en Odoo
 
-# Clasificación y Carga de Artículos SAP hacia Odoo CRM
-
 ## Descripción del Proyecto
 
 Este proyecto tiene como objetivo desarrollar una herramienta para preparar, clasificar y cargar artículos provenientes de SAP Business One hacia Odoo, asegurando que cada producto sea identificado correctamente por el API de Odoo dentro del CRM.
